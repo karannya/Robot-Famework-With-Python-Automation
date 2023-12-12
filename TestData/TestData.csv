@@ -1,0 +1,9 @@
+#BLANK,Mishra,riya@gmail.com,Riya@123,Riya@123,This is a required field
+Mira,#BLANK,mira@gmail.com,Mira@123,Mira@123,This is a required field
+Misha,Kaur,#BLANK,Misha@123,Misha@123,This is a required field
+Rita,Pandey,rita@gmail.com,#BLANK,Rita@123,This is a required field
+Ritta,Pandey,ritta@gmail.com,Ritta@123,#BLANK,This is a required field
+Ria,Pandey,ria@gmail.com,Riaa@123,ria@123,Please enter the same value again.
+Pia,Pandey,pia@gmail.com,pia,pia,Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored
+Ria,Pandey,ria@,Riaa@123,Riaa@123,Please enter a valid email address (Ex: johndoe@domain.com)
+Kia,Pandey,kia@gmail.com,kiaa1234,kiaa1234,Minimum of different classes of characters in password is 3. Classes of characters: Lower Case, Upper Case, Digits, Special Characters
