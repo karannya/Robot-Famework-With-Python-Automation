@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
 Resource     ../Resources/CommonVariable.robot
-Resource     ../Resources/BrowserKeywords.robot
+Resource     ../Resources/WebNavigatorKeywords.robot
 Resource     ../Resources/DashboardKeywords.robot
 
 Suite Setup    Open My Browser  ${URL}   ${BROWSER}   
