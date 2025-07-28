@@ -24,7 +24,8 @@ Attempt Registration
     run keyword If  '${credentials[1]}' != '#BLANK'   Input Text      ${LASTNAME}                      ${credentials[1]}
     run keyword If  '${credentials[2]}' != '#BLANK'   Input Text      ${EMAILID}                       ${credentials[2]} 
     run keyword If  '${credentials[3]}' != '#BLANK'   Input Text      ${PASSWORD}                      ${credentials[3]} 
-    run keyword If  '${credentials[4]}' != '#BLANK'   Input Text      ${CONFIRM_PASSWORD}               ${credentials[4]} 
+    run keyword If  '${credentials[4]}' != '#BLANK'   Input Text      ${CONFIRM_PASSWORD}               ${credentials[4]}
+     
 
 
 

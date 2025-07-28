@@ -12,3 +12,4 @@ Enter Sign In With Credentials
      Input Text    ${SIGNIN_PWD}     ${SIGNINPASSWORD}
      Click Button    ${SIGNIN_BTN}
      Wait Until Page contains     Welcome, AutomationUserFirstName AutomationUserLastName!
+         
